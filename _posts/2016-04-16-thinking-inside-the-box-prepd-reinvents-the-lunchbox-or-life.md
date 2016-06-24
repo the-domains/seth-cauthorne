@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-24T05:05:33.713Z'
+datePublished: '2016-06-24T05:13:16.093Z'
 sourcePath: >-
   _posts/2016-04-16-thinking-inside-the-box-prepd-reinvents-the-lunchbox-or-life.md
 inFeed: true
@@ -22,7 +22,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-24T05:05:33.358Z'
+dateModified: '2016-06-24T05:13:15.757Z'
 title: 'Thinking inside the box: Prepd reinvents the lunchbox.'
 app_links: []
 publisher:
@@ -38,7 +38,7 @@ description: >-
   $1 million.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
