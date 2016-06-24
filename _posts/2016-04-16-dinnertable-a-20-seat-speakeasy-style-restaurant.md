@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-24T05:13:15.037Z'
+datePublished: '2016-06-24T05:13:35.911Z'
 sourcePath: _posts/2016-04-16-dinnertable-a-20-seat-speakeasy-style-restaurant.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/dinnertable-restaurant-east-village'
@@ -17,7 +17,7 @@ keywords:
   - burger
 related: []
 author: []
-dateModified: '2016-06-24T05:13:14.638Z'
+dateModified: '2016-06-24T05:13:35.524Z'
 title: 'dinnertable: A 20-Seat Speakeasy-Style Restaurant'
 app_links: []
 publisher:
@@ -32,7 +32,7 @@ description: >-
   button sends a chime to the inside and you're promptly greeted.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
